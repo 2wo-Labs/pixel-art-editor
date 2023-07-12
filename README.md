@@ -9,6 +9,7 @@ Projeto destinado a estudo de Python, Pygame, Computação Gráfica e Processame
 
 Esse editor de pixel art é nossa versão aberta e publica, primeira versão desenvolvida para testes e estudos. A nossa segunda versão é fechada e de uso proprietário, estamos melhorando e usando para criar algumas artes de nossos jogos em desenvolvimento.
 
+![banner-programa-aberto](banner.png)
 
 ### Funcionalidades
 - [x] Pintar a tela com pixel
