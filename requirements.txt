@@ -1,0 +1,13 @@
+altgraph==0.17.3
+black==23.7.0
+click==8.1.4
+colorama==0.4.6
+mypy-extensions==1.0.0
+packaging==23.1
+pathspec==0.11.1
+pefile==2023.2.7
+platformdirs==3.8.1
+pygame==2.5.0
+pyinstaller==5.13.0
+pyinstaller-hooks-contrib==2023.5
+pywin32-ctypes==0.2.2
