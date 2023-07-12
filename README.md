@@ -4,7 +4,9 @@
 
 ![logo-do-projeto](logo.ico)
 
-Esse editor de pixel art está destinado a uso e produção de pixel arts para jogos que serão desenvolvidos por nós. É esperado que esse projeto seja possível ser concluído e utilizado por nós mesmos para produzir nossas artes
+Projeto destinado a estudo de Python, Pygame, Computação Gráfica e Processamento de Imagem
+
+Esse editor de pixel art é nossa versão aberta e publica, primeira versão desenvolvida para testes e estudos. A nossa segunda versão é fechada e de uso proprietário, estamos melhorando e usando para criar algumas artes de nossos jogos em desenvolvimento.
 
 ### Funcionalidades
 - [x] Pintar a tela com pixel
