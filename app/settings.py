@@ -44,10 +44,10 @@ BTN_LARGE_ICON_PADDING = (50, 10)
 PENCIL_IMAGE = "./app/assets/pencil-solid.svg"
 ERASER_IMAGE = "./app/assets/eraser-solid.svg"
 PALETTE_IMAGE = "./app/assets/palette-solid.svg"
-FILL_IMAGE = "./app/assets/fill-drip-solid.svg"
 CLEAR_IMAGE = "./app/assets/clear-solid.svg"
 INCREASE_IMAGE = "./app/assets/plus-solid.svg"
-DECREASE_IMAGE = "./app/assets/minus-solid.svg"
+DECREASE_IMAGE = "./app/assets/minus-solid.png"
+SAVE_IMAGE = "./app/assets/save.svg"
 
 LOGO = "./app/assets/logo.png"
 
@@ -55,8 +55,11 @@ LOGO = "./app/assets/logo.png"
 # TOOLS
 PENCIL_TOOL = "PENCIL_TOOL"
 ERASER_TOOL = "ERASER_TOOL"
-FILL_TOOL = "FILL_TOOL"
 CLEAR_TOOL = "CLEAR_TOOL"
 PALETTE_TOOL = "PALETTE_TOOL"
 
-TOOLS = [PENCIL_TOOL, ERASER_TOOL, FILL_TOOL, CLEAR_TOOL, PALETTE_TOOL]
+TOOLS = [PENCIL_TOOL, ERASER_TOOL, CLEAR_TOOL, PALETTE_TOOL]
+
+# SAVE PATH
+
+SAVE_PATH = "./app/saves/"
