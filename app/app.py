@@ -297,6 +297,7 @@ def main():
 
 if "__main__" == __name__:
     try:
+        logging.basicConfig(filename='error.log', level=logging.ERROR)
         main()
     except Exception as e:
         logging.exception(f"{e}")
