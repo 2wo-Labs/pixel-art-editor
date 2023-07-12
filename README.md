@@ -1,4 +1,4 @@
-# Pixel Art Editor
+# Pixel Art Editor v1 Aberto
 
 ## Editor de de imagens pixel art 👍
 
