@@ -1,0 +1,44 @@
+# WINDOW SIZE
+WIDTH = 1280
+HEIGHT = 680
+
+BAR_TOOL_SIZE = 180, HEIGHT
+
+CANVAS_SIZE = 1060, 640
+
+# COLORS
+BG_COLOR = (26, 26, 26)
+BAR_BG_COLOR = (51, 51, 51)
+BTN_COLOR = (77, 77, 77)
+BTN_HOVER_COLOR = (88, 88, 88)
+
+# TOOLS
+PIXEL_SIZE = 10
+PIXEL_COLOR = "white"
+
+# BUTTON SIZE
+NORMAL_BTN_SIZE = (60, 60)
+LARGE_BUTTON_SIZE = (140, 60)
+
+BTN_ICON_SIZE = (40, 40)
+BTN_ICON_PADDING = (10, 10)
+
+
+# IMAGES
+PENCIL_IMAGE = "./app/assets/pencil-solid.svg"
+ERASER_IMAGE = "./app/assets/eraser-solid.svg"
+PALETTE_IMAGE = "./app/assets/palette-solid.svg"
+FILL_IMAGE = "./app/assets/fill-drip-solid.svg"
+CLEAR_IMAGE = "./app/assets/clear-solid.svg"
+
+LOGO = "./app/assets/logo.png"
+
+
+# TOOLS
+PENCIL_TOOL = "PENCIL_TOOL"
+ERASER_TOOL = "ERASER_TOOL"
+FILL_TOOL = "FILL_TOOL"
+CLEAR_TOOL = "CLEAR_TOOL"
+PALETTE_TOOL = "PALETTE_TOOL"
+
+TOOLS = [PENCIL_TOOL, ERASER_TOOL, FILL_TOOL, CLEAR_TOOL, PALETTE_TOOL]

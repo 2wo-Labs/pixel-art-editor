@@ -1,0 +1,28 @@
+# Arquivos gerados pelo Python
+*.pyc
+__pycache__/
+*.pyo
+
+# Arquivos gerados pelo Pygame
+*.pyd
+*.dll
+*.so
+*.dylib
+
+# Arquivos de ambiente virtual do Python
+venv/
+env/
+*.env
+
+# Arquivos gerados pelo IDE ou editor de texto
+.vscode/
+.idea/
+
+# Arquivos de registro e logs
+*.log
+log.txt
+
+# Outros arquivos e pastas
+.DS_Store
+*.swp
+*.swo
